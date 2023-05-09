@@ -1,7 +1,7 @@
 {
-  "name": "AlienAlfaBot-MD",
+  "name": "TengkuShafiqBot-MD",
   "version": "2.3.0",
-  "description": "Beta Test By an Alien",
+  "description": "Beta Test By Tengku Shafiq",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "nodemonConfig": {
     "ignore": [
-      "/root/AlienAlfa/*"
+      "/root/Tengkushafiq/*"
     ],
     "delay": 2500
   },
@@ -20,12 +20,12 @@
     "2021",
     "wabase-md"
   ],
-  "author": "Alien-Alfa.",
+  "author": "Tengku-Shafiq.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
-    "awesome-phonenumber": "^2.64.0",
+    "awesome-0193830253": "^2.64.0",
     "@vitalets/google-translate-api": "^4.0.0",
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
@@ -77,10 +77,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alien-Alfa/WhatsAppBot-MD.git"
+    "url": "git+https://github.com/Tengku-Shafiq/WhatsAppBot-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Alien-Alfa/WhatsAppBot-MD/issues"
+    "url": "https://github.com/Tengku-Shafiq/WhatsAppBot-MD/issues"
   },
-  "homepage": "https://github.com/Alien-Alfa/WhatsAppBot-MD#readme"
+  "homepage": "https://github.com/Tengku-Shafiq/WhatsAppBot-MD#readme"
 }
